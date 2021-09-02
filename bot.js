@@ -8,7 +8,6 @@ const myIntents = new Intents([
 
 const client = new Client({ intents: myIntents });
 
-const auth = require('./auth.json');
 const quiz = require('./question.json');
 const dquiz = require('./QuizMenu.js');
 const prefix = '!';
