@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Who runs 品安 Allenator YouTube channel?",
+        "answer": "🇨",
+        "choices": [
+            "盛安",
+            "小安",
+            "品安"
+        ]
+    },
+    {
+        "question": "What university is Allen at?",
+        "answer": "🇨",
+        "choices": [
+            "NCKU",
+            "NTU",
+            "NCYU"
+        ]
+    },
+    {
+        "question": "What does Allen major?",
+        "answer": "🇦",
+        "choices": [
+            "CSIE",
+            "EE",
+            "AM"
+        ]
+    },
+    {
+        "question": "What does 'hands down' mean?",
+        "answer": "🇧",
+        "choices": [
+            "沒關係",
+            "毫無疑問",
+            "可以接受"
+        ]
+    },
+    {
+        "question": "What does 'yay me' mean?",
+        "answer": "🇦",
+        "choices": [
+            "我很開心，因為某件事發生",
+            "糟透了，因為某件事發生",
+            "吶喊，因為某件事發生"
+        ]
+    },
+    {
+        "question": "What does 'rip off the band-aid' mean?",
+        "answer": "🇦",
+        "choices": [
+            "某件不好或很痛苦的事趕快解決掉",
+            "可以接受",
+            "心情好"
+        ]
+    }
+]
