@@ -10,19 +10,20 @@ const client = new Client({ intents: myIntents });
 
 const quiz = require('./question.json');
 const dquiz = require('./QuizMenu.js');
-const prefix = '!';
+require('dotenv').config();
+const PREFIX = "!";
 let gameMode = 0;
 
 console.clear();
 
-client.login(process.env.token);
+client.login(process.env.TOKEN);
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
 client.on('messageCreate', msg => {
-    if (msg.member.user.bot || !msg.content.startsWith(prefix)) return; //prevent robot from answering
+    if (msg.member.user.bot || !msg.content.startsWith(PREFIX)) return; //prevent robot from answering
     if (gameMode == 0) dquiz.init();
     if (msg.content.toLowerCase() == '!hello') {
 
