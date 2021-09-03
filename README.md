@@ -2,7 +2,7 @@
 ![reference link](https://img.shields.io/badge/status-success-green)
 
 # Discord Quiz bot
-
+[點我找到 Quiz bot](https://discord.com/oauth2/authorize?client_id=881683703791763477&permissions=8&scope=bot)
 ## 動機
 * 初學 `node.js` 想說來實作看看，因為這個小專案我學到了許多 `js` 的小技巧
 * 這個筆記我會記錄一些我在實作過程中遇到的問題與解決方法
