@@ -1,14 +1,5 @@
 [
     {
-        "question": "Who runs 品安 Allenator YouTube channel?",
-        "answer": "🇨",
-        "choices": [
-            "盛安",
-            "小安",
-            "品安"
-        ]
-    },
-    {
         "question": "What university is Allen at?",
         "answer": "🇨",
         "choices": [
@@ -51,6 +42,15 @@
             "某件不好或很痛苦的事趕快解決掉",
             "可以接受",
             "心情好"
+        ]
+    },
+    {
+        "question": "What does take over mean?",
+        "answer": "🇧",
+        "choices": [
+            "拿過來",
+            "接管、接手",
+            "捕獲量"
         ]
     }
 ]
